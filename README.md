@@ -1,7 +1,8 @@
 # JogoHelicopteroDeCombate
 ### Sobre o jogo:
 
-Criado com base nos tutoriais do bootcamp da Órbi Games disponível na plataforma da Digital Innovetion One (DIO). E com intuito de melhorar minhas práticas e conhecimento no JQuery.
+Criado com os tutoriais do bootcamp da Órbi Games disponível na plataforma da Digital Innovetion One (DIO). E com intuito de melhorar minhas práticas e conhecimento no JQuery.
+O Jogo foi desenvolvido pela Órbi Game e reproduzido por mim para maior assimilação do conteúdo dado nas aulas.
 
 ## Fotos do Jogo:
 
