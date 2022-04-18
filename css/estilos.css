@@ -11,27 +11,21 @@ h1 {
 
 body {
 	background-image:url(../imgs/fundo.jpg);
-    /* display: flex;
-    align-items: center;
-    justify-content: center; */
 }
 
 #container{
-	width:80vw;;
+	width:950px;
 	height:auto;
-	margin: auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 
 #fundoGame {
-	width:80vw;
-	height:70vh;
+	width:950px;
+	height:630px;
 	background-image:url(../imgs/fundo_game.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
 	border-color:#FFF;
 	border-style:solid;
 }
@@ -42,7 +36,7 @@ body {
 	position:absolute;
 	left:8px;
 	top:179px;
-background-image:url(../imgs/apache.png);
+    background-image:url(../imgs/apache.png);
 
 }
 
@@ -78,10 +72,9 @@ background-image:url(../imgs/apache.png);
 	width:350px;
 	height:200px;
 	background-color:#FFF;
- 	margin-left:auto;
-    margin-right:auto;
- 	margin-top:100px;
+ 	margin: 100px auto 0 auto;
 	text-align:center;
 	padding:10px;
 
 }
+
